@@ -1,1 +1,2 @@
-#START OF CODE
+#start of code
+print("hello world")
